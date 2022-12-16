@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:drawable="@drawable/splash_grandient"/>
+
+    <item
+        android:left="91dp"
+        android:top="400dp"
+        android:right="91dp"
+        android:bottom="400dp"
+        >
+        <bitmap android:src="@drawable/logo_motion_splash"/>
+    </item>
+
+</layer-list>

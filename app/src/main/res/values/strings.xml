@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionApp</string>
+    <string name="email_hint"><b>CORREO ELECTRÓNICO</b></string>
+    <string name="password_hint"><b>CONTRASEÑA</b></string>
+</resources>

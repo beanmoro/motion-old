@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bn_schedule_item"
+        android:icon="@drawable/ic_calendar"
+        android:title="HORARIO"
+        />
+    <item
+        android:id="@+id/bn_progress_item"
+        android:icon="@drawable/ic_progress"
+        android:title="PROGRESO"
+        />
+    <item
+        android:id="@+id/bn_survey_item"
+        android:icon="@drawable/ic_survey"
+        android:title="ENCUESTAS"
+        />
+    <item
+        android:id="@+id/bn_profile_item"
+        android:icon="@drawable/ic_profile"
+        android:title="PERFIL"
+
+        />
+
+</menu>
